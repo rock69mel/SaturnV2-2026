@@ -1,0 +1,22 @@
+# Windows executable build files
+x64/
+x86/
+bin/
+obj/
+*.exe
+*.pdb
+*.ilk
+
+# VS IDE artifacts
+.vs/
+.idea/
+*.user
+*.suo
+*.manifest
+
+# Config & Temp
+config.json
+settings.ini
+cache/
+logs/
+offsets.txt
